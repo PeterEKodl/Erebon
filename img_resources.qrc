@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Player/player_default.png</file>
+        <file>Images/Blocks/Dirt.png</file>
+        <file>Images/Blocks/Grass.png</file>
+        <file>Images/Blocks/Undefined.png</file>
+        <file>Images/Blocks/Wood.png</file>
+    </qresource>
+</RCC>
